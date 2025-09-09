@@ -1,0 +1,6 @@
+body{font-family:system-ui,Segoe UI,Roboto,Arial,sans-serif;background:#0b1220;color:#e5e7eb;margin:0}
+main{max-width:640px;margin:0 auto;padding:32px}
+form{display:flex;gap:8px;margin-bottom:16px}
+input{flex:1;padding:10px;border-radius:6px;border:1px solid #334155;background:#0f172a;color:#e5e7eb}
+button{padding:10px 14px;border-radius:6px;border:0;background:#10b981;color:#062e2e;font-weight:700;cursor:pointer}
+li{display:flex;align-items:center;gap:8px;padding:8px 0;border-bottom:1px solid #1f2937}
